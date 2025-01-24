@@ -1,4 +1,4 @@
-#
+#my first program
 # spaceship_generator.py
 #
 # This is a Blender script that uses procedural generation to create
