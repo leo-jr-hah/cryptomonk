@@ -3,7 +3,7 @@
 #
 # This is a Blender script that uses procedural generation to create
 # textured 3D spaceship models. Tested with Blender 2.77a
-#
+#ample
 
 import sys
 import os
